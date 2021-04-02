@@ -1,0 +1,12 @@
+{
+  "name": "locationTracking",
+  "displayName": "locationTracking",
+  "expo": {
+    "name": "locationTracking",
+    "slug": "locationTracking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
